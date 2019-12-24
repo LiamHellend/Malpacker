@@ -15,4 +15,5 @@ Malpacker is a webservice that allows malware analysts to quickly detect and pos
 * https://github.com/unipacker/unipacker
 * https://github.com/hasherezade/mal_unpack
 * https://github.com/avast/retdec
-* https://github.com/hasherezade/pe-sieve
+* https://github.com/NozomiNetworks/greyenergy-unpacker
+* https://github.com/quarkslab/legu_unpacker_2019
